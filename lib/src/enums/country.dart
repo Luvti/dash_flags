@@ -9,6 +9,9 @@
 ///
 /// If you have the `Country Code` as `String` and you want to get the corresponding [Country] enum member, then you can use [fromCode] method.
 enum Country {
+  /// Abkhazia
+  ab,
+
   /// Andorra
   ad,
 
