@@ -30,6 +30,9 @@ enum Country {
   /// Armenia
   am,
 
+  /// Netherlands Antilles
+  an,
+
   /// Angola
   ao,
 
